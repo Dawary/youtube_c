@@ -1,1 +1,1 @@
-# youtube_c
+Discover the simplified YouTube clone! With a user-friendly design and a powerful API, our app brings you a world of diverse videos. Easy to navigate and personalized for you, it's your go-to for endless video content.
